@@ -8,7 +8,7 @@
  <a href="https://www.instagram.com/wholaughs1/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 
-[<img src="https://now-playing-xen.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/gto875gmxmjn7x1ao92p31etr?si=a12663a343bd4537&nd=1)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/gto875gmxmjn7x1ao92p31etr?si=a12663a343bd4537&nd=1)
 <p align = "center"> <img src="https://profile-counter.glitch.me/{TheWhoLaughs}/count.svg" width="30%" align="left"/> </p>
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=TheWhoLaughs&show_icons=true&hide_title=true&theme=merko">
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheWhoLaughs&show_icons=true&hide_title=true&theme=merko">
