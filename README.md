@@ -1,7 +1,6 @@
 ### Herkese Selam! Ben Who Laughs <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" height="20px"></h2>
 
 <img src="https://komarev.com/ghpvc/?username=TheWhoLaughs&label=Ziyaretçi%20Sayısı&color=552b75" alt="TheWhoLaughs" />
-[!img](file:///C:/Users/Xen/Documents/ShareX/Screenshots/2021-06/c8y7DnywEA.gif)
 <p align="center">
  <a href="https://discord.com/users/310344608800309250" target"blank_"><img src="https://img.shields.io/badge/Who Laughs%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://open.spotify.com/user/gto875gmxmjn7x1ao92p31etr" target"blank_"><img src="https://img.shields.io/badge/Who Laughs%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
